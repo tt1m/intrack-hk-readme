@@ -17,3 +17,5 @@ InTrack HK aggregates high-quality listings from Big 4, Bulge Bracket banks, and
 *   **Advanced Filtering:** Server-side filtering by Category(Big 4/Bulge Bracket/Boutique...), Season, and Deadline types.
 *   **Admin Dashboard:** A protected route for managing listings, supporting CRUD operations with reactive form handling.
 *   **Custom Tracking:** Users can add "private" custom jobs to their board that don't appear in the public database.
+
+Source code private as I wish to keep my project closed source.
