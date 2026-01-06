@@ -1,6 +1,6 @@
 # InTrack HK 
 
-**A modern, full-stack internship tracking platform designed for Finance & Tech students in Hong Kong.**
+**A modern, full-stack internship tracking platform designed for univeristy students in Hong Kong.**
 
 InTrack HK aggregates high-quality listings from Big 4, Bulge Bracket banks, and Fintech unicorns, providing students with a unified Kanban board to organize their application process.
 
